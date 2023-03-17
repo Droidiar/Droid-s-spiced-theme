@@ -5,6 +5,31 @@
   --spice-misc: #1C130D;
   --spice-button: #1C130D;
   --spice-button-active: #1C130D;
+  --spice-player: var(--spice-card)
+}
+
+.main-trackList-trackListHeaderStuck.main-trackList-trackListHeader{
+  transition: 400ms;
+  border-radius: 10px;
+}
+
+.artist-artistDiscography-headerContainer {
+  background: none;
+}
+
+.EvQHNTBhaU3rGCRRlAWj.QplCuuGSoV4updqTSLq9 {
+  background-color: var(--background-base);
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.main-trackList-trackListHeaderStuck.main-trackList-trackListHeader {
+  background-color: var(--background-base);
+
+}
+
+.main-topBar-overlay {
+  background-color: var(--background-base);
 }
 
 .main-repeatButton-active svg {
