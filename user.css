@@ -159,6 +159,7 @@
 .encore-dark-theme .encore-bright-accent-set {
   --background-base: #2c1e11;
   --background-highlight: #2c1e11;
+  --spice-button: #76502E;
 }
 .main-nowPlayingBar-nowPlayingBar {
   background-color: #1C130D;
