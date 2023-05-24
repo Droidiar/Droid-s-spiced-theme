@@ -219,3 +219,16 @@
 .queue-tabBar-active {
   background-color: #1C130D;
 }
+
+.playing-source-ao-container {
+  --playing-source-ao-bkg-color: rgba(0,0,0,0);
+  transition: 500ms;
+}
+
+.playing-source-ao {
+  transition: 5s;
+  background-color: var(--spice-card);
+  padding-top: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
