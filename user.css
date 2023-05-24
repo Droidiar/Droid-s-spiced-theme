@@ -234,6 +234,7 @@
   --background-base: var(--spice-card) !important;
   --background-highlight: var(--spice-card) !important;
   --background-press: !important;
+  --text-base: var(--spice-text);
 }
 
 .main-contextMenu-menuItemButton  .ellipsis-one-line {
