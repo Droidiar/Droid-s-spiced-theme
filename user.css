@@ -4,7 +4,7 @@
   --spice-main: #1C130D;
   --spice-misc: #1C130D;
   --spice-player: var(--spice-card)
-    
+  --background-press: var(--spice-card)
 }
 
 .main-trackInfo-genres {
