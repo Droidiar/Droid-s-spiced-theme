@@ -18,204 +18,204 @@
 }
 
 .main-nowPlayingWidget-nowPlaying {
-  height: 89px !important;
+  height: 89px;
 }
 
 .main-trackInfo-container {
-  align-self: start !important;
-  margin-top: 22px !important;
+  align-self: start;
+  margin-top: 22px;
 }
 
 .main-trackList-trackListHeaderStuck.main-trackList-trackListHeader{
-  transition: 400ms !important;
-  border-radius: 10px !important;
+  transition: 400ms;
+  border-radius: 10px;
 }
 
 .artist-artistDiscography-headerContainer {
-  background: none !important;
+  background: none;
 }
 
 .EvQHNTBhaU3rGCRRlAWj.QplCuuGSoV4updqTSLq9 {
-  background-color: var(--background-base) !important;
-  border-bottom-left-radius: 20px !important;
-  border-bottom-right-radius: 20px !important;
+  background-color: var(--background-base);
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
 }
 
 .main-trackList-trackListHeaderStuck.main-trackList-trackListHeader {
-  background-color: var(--background-base) !important;
+  background-color: var(--background-base);
 
 }
 
 .main-topBar-overlay {
-  background-color: var(--background-base) !important;
+  background-color: var(--background-base);
 }
 
 .main-repeatButton-active svg {
-  color: #D1AC89 !important;
+  color: #D1AC89;
 }
 
 .main-repeatButton-button.main-repeatButton-active:after {
-  background-color: #D1AC89 !important;
-  border-radius: 10px !important;
+  background-color: #D1AC89;
+  border-radius: 10px;
 }
 
 .main-shuffleButton-button.main-shuffleButton-active:after {
-  background-color: #D1AC89 !important;
+  background-color: #D1AC89;
 }
 
 .main-shuffleButton-active svg {
-  color: #D1AC89 !important;
+  color: #D1AC89;
 }
 
 .Root__top-bar {
-  border-radius: 0px !important;
-  background-color: #2C1E11 !important;
-  border-bottom-right-radius: 10px !important;
-  border-bottom-left-radius: 10px !important;
+  border-radius: 0px;
+  background-color: #2C1E11;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 
 .main-home-homeHeader {
-  display: none !important;
+  display: none;
 }
 
 .spotify__container--is-desktop:not(.fullscreen) .main-navBar-entryPoints {
-  align-items: center !important;
-  padding: 10px !important;
-  padding-left: 0px !important;
-  margin-top: 20px !important;
-  width: 90% !important;
-  margin-left: 5% !important;
+  align-items: center;
+  padding: 10px;
+  padding-left: 0px;
+  margin-top: 20px;
+  width: 90%;
+  margin-left: 5%;
 }
 
 .main-navBar-navBarLink:hover {
-  background-color: #2c1e11 !important;
+  background-color: #2c1e11;
 }
 
 .main-navBar-navBarLinkActive {
-  background-color: #2c1e11 !important;
+  background-color: #2c1e11;
 }
 
 .Root__nav-bar .ellipsis-one-line {
-  position: absolute !important;
-  right: 13% !important;
+  position: absolute;
+  right: 13%;
 }
 
 .main-rootlist-rootlistDividerGradient {
-  display: none !important;
+  display: none;
 }
 
 .main-rootlist-rootlistDividerContainer {
-  width: 100% !important;
-  position: absolute !important;
-  left: 0px !important;
+  width: 100%;
+  position: absolute;
+  left: 0px;
 }
 
 .main-navBar-entryPoints {
-  background-color: #2C1E11 !important;
-  border-radius: 10px !important;
-  padding-top: 0px !important;
+  background-color: #2C1E11;
+  border-radius: 10px;
+  padding-top: 0px;
 }
 
 .main-view-container__scroll-node-child-spacer {
-  background-color: #1C130D !important;
+  background-color: #1C130D;
 }
 
 .main-topBar-background {
-  background: none !important;
+  background: none;
 }
 
 .main-navBar-navBar {
-  background-color: #1C130D !important;
+  background-color: #1C130D;
 }
 
 .main-image-image {
-  border-radius: 10px !important;
+  border-radius: 10px
 }
 
 .main-cardImage-imageWrapper {
-  background: none !important;
+  background: none;
 }
 
 .cover-art-image {
-  border-radius: 0px !important;
-  border-start-start-radius: 20px !important;
-  border-top-right-radius: 20px !important;
+  border-radius: 0px;
+  border-start-start-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 .main-nowPlayingWidget-coverArt img {
-  border-radius: 10px !important;
+  border-radius: 10px;
 }
 
 
 .cover-art {
-  background: none !important;
+  background: none;
 }
 
 .main-home-content {
-  background-color: #1C130D !important;
+  background-color: #1C130D;
 }
 
 .main-card-card {
-  background-color: #2C1E11 !important;
+  background-color: #2C1E11;
 }
 
 .main-card-card:hover {
-  background-color: #1C130D !important;
+  background-color: #1C130D;
 }
 
 .main-playButton-PlayButton svg {
-  color: white !important;
+  color: white;
 }
 
 .main-gridContainer-gridContainer {
-  background-color: #1C130D !important;
+  background-color: #1C130D;
 }
 
 .contentSpacing {
-  background-color: #1C130D !important;
+  background-color: #1C130D;
 }
 .encore-dark-theme .encore-bright-accent-set {
-  --background-base: #2c1e11 !important;
-  --background-highlight: #2c1e11 !important;
-  --spice-button: #76502E !important;
+  --background-base: #2c1e11;
+  --background-highlight: #2c1e11;
+  --spice-button: #76502E;
 }
 .main-nowPlayingBar-nowPlayingBar {
-  background-color: #1C130D !important;
+  background-color: #1C130D;
 }
 
 .lyrics-lyricsContainer-LyricsBackground {
-  background-color: #1C130D !important;
+  background-color: #1C130D;
 }
 
 .os-content {
-  margin-top: 10px !important;
+  margin-top: 10px;
 }
 
 .main-rootlist-rootlistItem  {
-  border-radius: 10px !important;
-  background-color: #2c1e11 !important;
-  padding: 3px !important;
-  margin-bottom: 5px !important;
-  width: 90% !important;
+  border-radius: 10px;
+  background-color: #2c1e11;
+  padding: 3px;
+  margin-bottom: 5px;
+  width: 90%;
 }
 
 .main-rootlist-rootlistContent {
-  margin-left: 8% !important;
+  margin-left: 8%;
   
 }
 
 .main-navBar-navBarItem {
-  padding: 0 !important;
-  background-color: #1C130D !important;
-  margin: 0.3em !important;
-  margin-left: 0.7em !important;
-  border-radius: 10px !important;
+  padding: 0;
+  background-color: #1C130D;;
+  margin: 0.3em;
+  margin-left: 0.7em;
+  border-radius: 10px;
 }
 
 .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track > .os-scrollbar-handle { border-radius: 4px; width: 6px; background-color: var(--spice-button-disabled); } .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track { width: 6px; }
 
 .queue-tabBar-active {
-  background-color: #1C130D !important;
+  background-color: #1C130D;
 }
 
 .playing-source-ao-container {
@@ -234,7 +234,7 @@
   --background-base: var(--spice-card) !important;
   --background-highlight: var(--spice-card) !important;
   --background-press: !important;
-  --text-base: var(--spice-text) !important;
+  --text-base: var(--spice-text);
 }
 
 .main-contextMenu-menuItemButton  .ellipsis-one-line {
