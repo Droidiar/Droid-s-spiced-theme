@@ -8,7 +8,7 @@ A nice and sleak spicetify theme, made by a real life android! Isn't that exciti
 </br>
 
 Available on the Marketplace, can be installed locally too.
-Would recommend installing locally, marketplace messes up my css.
+Would recommend installing locally, marketplace messes up css added to extensions. 
 </br>
 </br>
 
