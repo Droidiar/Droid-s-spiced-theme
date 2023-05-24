@@ -235,3 +235,7 @@
   --background-highlight: var(--spice-card);
   --background-press: ;
 }
+
+.main-contextMenu-menuItemButton  .ellipsis-one-line {
+	position: relative;
+}
