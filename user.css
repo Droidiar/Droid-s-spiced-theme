@@ -7,7 +7,7 @@
 }
 
 .encore-dark-theme .encore-bright-accent-set {
-  --background-press: #2c1e11;
+  --background-press: #2c1e11 !important;
 }
 
 .main-trackInfo-genres {
@@ -231,9 +231,9 @@
 }
 
 .encore-dark-theme .encore-inverted-light-set {
-  --background-base: var(--spice-card);
-  --background-highlight: var(--spice-card);
-  --background-press: ;
+  --background-base: var(--spice-card) !important;
+  --background-highlight: var(--spice-card) !important;
+  --background-press: !important;
 }
 
 .main-contextMenu-menuItemButton  .ellipsis-one-line {
