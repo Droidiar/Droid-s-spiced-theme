@@ -226,9 +226,14 @@
 }
 
 .playing-source-ao {
-  transition: 5s;
   background-color: var(--spice-misc);
   padding-top: 20px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
+}
+
+.encore-dark-theme .encore-inverted-light-set {
+  --background-base: var(--spice-card);
+  --background-highlight: var(--spice-card);
+  --background-press: ;
 }
