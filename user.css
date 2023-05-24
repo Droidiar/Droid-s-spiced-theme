@@ -4,6 +4,25 @@
   --spice-main: #1C130D;
   --spice-misc: #1C130D;
   --spice-player: var(--spice-card)
+    
+}
+
+.main-trackInfo-genres {
+  left: 0;
+  margin-left: 70px;
+  bottom: 0;
+  font-size: 10px;
+  margin-bottom: 16px;
+  padding: 0px;
+}
+
+.main-nowPlayingWidget-nowPlaying {
+  height: 89px;
+}
+
+.main-trackInfo-container {
+  align-self: start;
+  margin-top: 22px;
 }
 
 .main-trackList-trackListHeaderStuck.main-trackList-trackListHeader{
