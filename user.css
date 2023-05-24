@@ -11,10 +11,10 @@
 }
 
 .main-trackInfo-genres {
-  left: 0;
-  bottom: 0;
-  margin-bottom: 16px;
-  padding: 0px;
+  left: 0 !important;
+  bottom: 0 !important;
+  margin-bottom: 16px !important;
+  padding: 0px !important;
 }
 
 .main-nowPlayingWidget-nowPlaying {
@@ -219,15 +219,15 @@
 }
 
 .playing-source-ao-container {
-  --playing-source-ao-bkg-color: rgba(0,0,0,0);
-  transition: 500ms;
+  --playing-source-ao-bkg-color: rgba(0,0,0,0) !important;
+  transition: 500ms !important;
 }
 
 .playing-source-ao {
-  background-color: var(--spice-misc);
-  padding-top: 20px;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
+  background-color: var(--spice-misc) !important;
+  padding-top: 20px !important;
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
 }
 
 .encore-dark-theme .encore-inverted-light-set {
