@@ -95,7 +95,7 @@
   background-color: #2c1e11;
 }
 
-.main-navBar-entryPoints .main-navBar-navBarItem .ellipsis-one-line {
+.Root__nav-bar .ellipsis-one-line {
   position: absolute;
   right: 13%;
 }
