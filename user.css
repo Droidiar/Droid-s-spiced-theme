@@ -237,5 +237,5 @@
 }
 
 .main-contextMenu-menuItemButton  .ellipsis-one-line {
-	position: relative;
+	position: relative !important;
 }
