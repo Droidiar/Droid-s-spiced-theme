@@ -129,84 +129,84 @@
 }
 
 .main-image-image {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 
 .main-cardImage-imageWrapper {
-  background: none;
+  background: none !important;
 }
 
 .cover-art-image {
-  border-radius: 0px;
-  border-start-start-radius: 20px;
-  border-top-right-radius: 20px;
+  border-radius: 0px !important;
+  border-start-start-radius: 20px !important;
+  border-top-right-radius: 20px !important;
 }
 
 .main-nowPlayingWidget-coverArt img {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 
 
 .cover-art {
-  background: none;
+  background: none !important;
 }
 
 .main-home-content {
-  background-color: #1C130D;
+  background-color: #1C130D !important;
 }
 
 .main-card-card {
-  background-color: #2C1E11;
+  background-color: #2C1E11 !important;
 }
 
 .main-card-card:hover {
-  background-color: #1C130D;
+  background-color: #1C130D !important;
 }
 
 .main-playButton-PlayButton svg {
-  color: white;
+  color: white !important;
 }
 
 .main-gridContainer-gridContainer {
-  background-color: #1C130D;
+  background-color: #1C130D !important;
 }
 
 .contentSpacing {
-  background-color: #1C130D;
+  background-color: #1C130D !important;
 }
 .encore-dark-theme .encore-bright-accent-set {
-  --background-base: #2c1e11;
-  --background-highlight: #2c1e11;
-  --spice-button: #76502E;
+  --background-base: #2c1e11 !important;
+  --background-highlight: #2c1e11 !important;
+  --spice-button: #76502E !important;
 }
 .main-nowPlayingBar-nowPlayingBar {
-  background-color: #1C130D;
+  background-color: #1C130D !important;
 }
 
 .lyrics-lyricsContainer-LyricsBackground {
-  background-color: #1C130D;
+  background-color: #1C130D !important;
 }
 
 .os-content {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 .main-rootlist-rootlistItem  {
-  border-radius: 10px;
-  background-color: #2c1e11;
-  padding: 3px;
-  margin-bottom: 5px;
-  width: 90%;
+  border-radius: 10px !important;
+  background-color: #2c1e11 !important;
+  padding: 3px !important;
+  margin-bottom: 5px !important;
+  width: 90% !important;
 }
 
 .main-rootlist-rootlistContent {
-  margin-left: 8%;
+  margin-left: 8% !important;
   
 }
 
 .main-navBar-navBarItem {
-  padding: 0;
-  background-color: #1C130D;
+  padding: 0 !important;
+  background-color: #1C130D !important;
   margin: 0.3em !important;
   margin-left: 0.7em !important;
   border-radius: 10px !important;
