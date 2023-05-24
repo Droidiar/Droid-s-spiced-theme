@@ -227,7 +227,7 @@
 
 .playing-source-ao {
   transition: 5s;
-  background-color: var(--spice-card);
+  background-color: var(--spice-misc);
   padding-top: 20px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
