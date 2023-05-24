@@ -18,118 +18,118 @@
 }
 
 .main-nowPlayingWidget-nowPlaying {
-  height: 89px;
+  height: 89px !important;
 }
 
 .main-trackInfo-container {
-  align-self: start;
-  margin-top: 22px;
+  align-self: start !important;
+  margin-top: 22px !important;
 }
 
 .main-trackList-trackListHeaderStuck.main-trackList-trackListHeader{
-  transition: 400ms;
-  border-radius: 10px;
+  transition: 400ms !important;
+  border-radius: 10px !important;
 }
 
 .artist-artistDiscography-headerContainer {
-  background: none;
+  background: none !important;
 }
 
 .EvQHNTBhaU3rGCRRlAWj.QplCuuGSoV4updqTSLq9 {
-  background-color: var(--background-base);
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+  background-color: var(--background-base) !important;
+  border-bottom-left-radius: 20px !important;
+  border-bottom-right-radius: 20px !important;
 }
 
 .main-trackList-trackListHeaderStuck.main-trackList-trackListHeader {
-  background-color: var(--background-base);
+  background-color: var(--background-base) !important;
 
 }
 
 .main-topBar-overlay {
-  background-color: var(--background-base);
+  background-color: var(--background-base) !important;
 }
 
 .main-repeatButton-active svg {
-  color: #D1AC89;
+  color: #D1AC89 !important;
 }
 
 .main-repeatButton-button.main-repeatButton-active:after {
-  background-color: #D1AC89;
-  border-radius: 10px;
+  background-color: #D1AC89 !important;
+  border-radius: 10px !important;
 }
 
 .main-shuffleButton-button.main-shuffleButton-active:after {
-  background-color: #D1AC89;
+  background-color: #D1AC89 !important;
 }
 
 .main-shuffleButton-active svg {
-  color: #D1AC89;
+  color: #D1AC89 !important;
 }
 
 .Root__top-bar {
-  border-radius: 0px;
-  background-color: #2C1E11;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
+  border-radius: 0px !important;
+  background-color: #2C1E11 !important;
+  border-bottom-right-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
 }
 
 .main-home-homeHeader {
-  display: none;
+  display: none !important;
 }
 
 .spotify__container--is-desktop:not(.fullscreen) .main-navBar-entryPoints {
-  align-items: center;
-  padding: 10px;
-  padding-left: 0px;
-  margin-top: 20px;
-  width: 90%;
-  margin-left: 5%;
+  align-items: center !important;
+  padding: 10px !important;
+  padding-left: 0px !important;
+  margin-top: 20px !important;
+  width: 90% !important;
+  margin-left: 5% !important;
 }
 
 .main-navBar-navBarLink:hover {
-  background-color: #2c1e11;
+  background-color: #2c1e11 !important;
 }
 
 .main-navBar-navBarLinkActive {
-  background-color: #2c1e11;
+  background-color: #2c1e11 !important;
 }
 
 .Root__nav-bar .ellipsis-one-line {
-  position: absolute;
-  right: 13%;
+  position: absolute !important;
+  right: 13% !important;
 }
 
 .main-rootlist-rootlistDividerGradient {
-  display: none;
+  display: none !important;
 }
 
 .main-rootlist-rootlistDividerContainer {
-  width: 100%;
-  position: absolute;
-  left: 0px;
+  width: 100% !important;
+  position: absolute !important;
+  left: 0px !important;
 }
 
 .main-navBar-entryPoints {
-  background-color: #2C1E11;
-  border-radius: 10px;
-  padding-top: 0px;
+  background-color: #2C1E11 !important;
+  border-radius: 10px !important;
+  padding-top: 0px !important;
 }
 
 .main-view-container__scroll-node-child-spacer {
-  background-color: #1C130D;
+  background-color: #1C130D !important;
 }
 
 .main-topBar-background {
-  background: none;
+  background: none !important;
 }
 
 .main-navBar-navBar {
-  background-color: #1C130D;
+  background-color: #1C130D !important;
 }
 
 .main-image-image {
-  border-radius: 10px
+  border-radius: 10px;
 }
 
 .main-cardImage-imageWrapper {
