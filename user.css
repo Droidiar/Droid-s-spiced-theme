@@ -206,16 +206,16 @@
 
 .main-navBar-navBarItem {
   padding: 0;
-  background-color: #1C130D;;
-  margin: 0.3em;
-  margin-left: 0.7em;
-  border-radius: 10px;
+  background-color: #1C130D;
+  margin: 0.3em !important;
+  margin-left: 0.7em !important;
+  border-radius: 10px !important;
 }
 
 .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track > .os-scrollbar-handle { border-radius: 4px; width: 6px; background-color: var(--spice-button-disabled); } .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track { width: 6px; }
 
 .queue-tabBar-active {
-  background-color: #1C130D;
+  background-color: #1C130D !important;
 }
 
 .playing-source-ao-container {
@@ -234,7 +234,7 @@
   --background-base: var(--spice-card) !important;
   --background-highlight: var(--spice-card) !important;
   --background-press: !important;
-  --text-base: var(--spice-text);
+  --text-base: var(--spice-text) !important;
 }
 
 .main-contextMenu-menuItemButton  .ellipsis-one-line {
