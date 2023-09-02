@@ -1,7 +1,7 @@
 :root {
   --spice-main: #1C130D !important;
-  --spice-card: #3C2E22 !important;
-  --spice-player: #1C130D !important;
+  --spice-card: #1C130D !important;
+  --spice-player:  #3C2E22 !important;
   --spice-sidebar: black !important;
   --spice-text: white !important;
   --spice-highlight: var(--spice-card) !important;
