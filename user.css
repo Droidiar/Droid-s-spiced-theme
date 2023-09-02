@@ -12,11 +12,11 @@
 
 
 .main-playPauseButton-button {
-  color: black;
+  color: black !important; 
 }
 
 .main-trackList-trackListRow.main-trackList-active .main-trackList-rowMarker, .main-trackList-trackListRow.main-trackList-active .main-trackList-rowTitle {
-  color: white;
+  color: white !important;
 }
 
 .Root__nav-bar {
@@ -54,11 +54,11 @@
 }
 
 .progress-bar__slider {
-  transition: 500ms;
+  transition: 500ms !important;
 }
 
 .x-progressBar-fillColor {
-  transition: 500ms;
+  transition: 500ms !important;
 }
 
 .main-navBar-mainNav {
