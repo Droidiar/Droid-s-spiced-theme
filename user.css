@@ -21,7 +21,7 @@
 
 .Root__nav-bar {
   background-color:  unset;
-  border-right: 1px solid var(--spice-card);
+  border-right: 1px solid var(--spice-player);
   border-radius: 0px 10px 10px 0px;
 }
 
@@ -41,7 +41,7 @@
 
 .Root__now-playing-bar {
   border-radius: 10px 10px 0px 0px !important;
-  border-top: 1px solid var(--spice-card) !important;
+  border-top: 1px solid var(--spice-player) !important;
 }
 
 .main-home-homeHeader{
