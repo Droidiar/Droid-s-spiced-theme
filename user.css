@@ -1,242 +1,74 @@
 :root {
-  --spice-card: #2C1E11;
-  --spice-tab-active: #1C130D;
-  --spice-main: #1C130D;
-  --spice-misc: #1C130D;
-  --spice-player: var(--spice-card);
-}
-
-.encore-dark-theme .encore-bright-accent-set {
-  --background-press: #2c1e11 !important;
-}
-
-.main-trackInfo-genres {
-  left: 0 !important;
-  bottom: 0 !important;
-  margin-bottom: 16px !important;
-  padding: 0px !important;
-}
-
-.main-nowPlayingWidget-nowPlaying {
-  height: 89px;
-}
-
-.main-trackInfo-container {
-  align-self: start;
-  margin-top: 22px;
-}
-
-.main-trackList-trackListHeaderStuck.main-trackList-trackListHeader{
-  transition: 400ms;
-  border-radius: 10px;
-}
-
-.artist-artistDiscography-headerContainer {
-  background: none;
-}
-
-.EvQHNTBhaU3rGCRRlAWj.QplCuuGSoV4updqTSLq9 {
-  background-color: var(--background-base);
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-}
-
-.main-trackList-trackListHeaderStuck.main-trackList-trackListHeader {
-  background-color: var(--background-base);
-
-}
-
-.main-topBar-overlay {
-  background-color: var(--background-base);
-}
-
-.main-repeatButton-active svg {
-  color: #D1AC89;
-}
-
-.main-repeatButton-button.main-repeatButton-active:after {
-  background-color: #D1AC89;
-  border-radius: 10px;
-}
-
-.main-shuffleButton-button.main-shuffleButton-active:after {
-  background-color: #D1AC89;
-}
-
-.main-shuffleButton-active svg {
-  color: #D1AC89;
-}
-
-.Root__top-bar {
-  border-radius: 0px;
-  background-color: #2C1E11;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-}
-
-.main-home-homeHeader {
-  display: none;
-}
-
-.spotify__container--is-desktop:not(.fullscreen) .main-navBar-entryPoints {
-  align-items: center;
-  padding: 10px;
-  padding-left: 0px;
-  margin-top: 20px;
-  width: 90%;
-  margin-left: 5%;
-}
-
-.main-navBar-navBarLink:hover {
-  background-color: #2c1e11;
-}
-
-.main-navBar-navBarLinkActive {
-  background-color: #2c1e11;
-}
-
-.Root__nav-bar .ellipsis-one-line {
-  position: absolute;
-  right: 13%;
-}
-
-.main-rootlist-rootlistDividerGradient {
-  display: none;
-}
-
-.main-rootlist-rootlistDividerContainer {
-  width: 100%;
-  position: absolute;
-  left: 0px;
-}
-
-.main-navBar-entryPoints {
-  background-color: #2C1E11;
-  border-radius: 10px;
-  padding-top: 0px;
-}
-
-.main-view-container__scroll-node-child-spacer {
-  background-color: #1C130D;
-}
-
-.main-topBar-background {
-  background: none;
-}
-
-.main-navBar-navBar {
-  background-color: #1C130D;
-}
-
-.main-image-image {
-  border-radius: 10px
-}
-
-.main-cardImage-imageWrapper {
-  background: none;
-}
-
-.cover-art-image {
-  border-radius: 0px;
-  border-start-start-radius: 20px;
-  border-top-right-radius: 20px;
-}
-
-.main-nowPlayingWidget-coverArt img {
-  border-radius: 10px;
+  --spice-main: #1C130D !important;
+  --spice-card: #3C2E22 !important;
+  --spice-player: #1C130D !important;
+  --spice-sidebar: black !important;
+  --spice-text: white !important;
+  --spice-highlight: var(--spice-card) !important;
+  --spice-subtext: white !important;
+  --spice-shadow: white !important;
 }
 
 
-.cover-art {
-  background: none;
+
+.main-playPauseButton-button {
+  color: black;
 }
 
-.main-home-content {
-  background-color: #1C130D;
-}
-
-.main-card-card {
-  background-color: #2C1E11;
-}
-
-.main-card-card:hover {
-  background-color: #1C130D;
-}
-
-.main-playButton-PlayButton svg {
+.main-trackList-trackListRow.main-trackList-active .main-trackList-rowMarker, .main-trackList-trackListRow.main-trackList-active .main-trackList-rowTitle {
   color: white;
 }
 
-.main-gridContainer-gridContainer {
-  background-color: #1C130D;
+.Root__nav-bar {
+  background-color:  unset;
+  border-right: 1px solid var(--spice-card);
+  border-radius: 0px 10px 10px 0px;
 }
 
-.contentSpacing {
-  background-color: #1C130D;
-}
-.encore-dark-theme .encore-bright-accent-set {
-  --background-base: #2c1e11;
-  --background-highlight: #2c1e11;
-  --spice-button: #76502E;
-}
-.main-nowPlayingBar-nowPlayingBar {
-  background-color: #1C130D;
+.BoxComponent-group-naked-listRow-isInteractive-hasLeadingOrMedia-paddingBlockStart_8px-paddingBlockEnd_8px-minBlockSize_56px-padding_8px {
+  --animation-speed: 500ms;
+  -webkit-tap-highlight-color: var(--spice-main);
 }
 
-.lyrics-lyricsContainer-LyricsBackground {
-  background-color: #1C130D;
+.Root__top-container {
+  background-color: var(--spice-main);
 }
 
-.os-content {
-  margin-top: 10px;
+.main-topBar-overlay {
+  background-color: var(--spice-main) !important;
+  border-radius: 0px;
 }
 
-.main-rootlist-rootlistItem  {
-  border-radius: 10px;
-  background-color: #2c1e11;
-  padding: 3px;
-  margin-bottom: 5px;
-  width: 90%;
+.Root__now-playing-bar {
+  border-radius: 10px 10px 0px 0px !important;
+  border-top: 1px solid var(--spice-card) !important;
 }
 
-.main-rootlist-rootlistContent {
-  margin-left: 8%;
-  
+.main-home-homeHeader{
+  background-color: #2C1E11 !important;
 }
 
-.main-navBar-navBarItem {
-  padding: 0;
-  background-color: #1C130D;;
-  margin: 0.3em;
-  margin-left: 0.7em;
-  border-radius: 10px;
+.progress-bar {
+  --progress-bar-height: 12px !important;
+  --progress-bar-radius: 4px !important;
 }
 
-.os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track > .os-scrollbar-handle { border-radius: 4px; width: 6px; background-color: var(--spice-button-disabled); } .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track { width: 6px; }
-
-.queue-tabBar-active {
-  background-color: #1C130D;
+.progress-bar__slider {
+  transition: 500ms;
 }
 
-.playing-source-ao-container {
-  --playing-source-ao-bkg-color: rgba(0,0,0,0) !important;
-  transition: 500ms !important;
+.x-progressBar-fillColor {
+  transition: 500ms;
 }
 
-.playing-source-ao {
-  background-color: var(--spice-misc) !important;
-  padding-top: 20px !important;
-  border-top-left-radius: 20px !important;
-  border-top-right-radius: 20px !important;
+.main-navBar-mainNav {
+  gap: unset !important;
 }
 
-.encore-dark-theme .encore-inverted-light-set {
-  --background-base: var(--spice-card) !important;
-  --background-highlight: var(--spice-card) !important;
-  --background-press: !important;
-  --text-base: var(--spice-text);
+.main-yourLibraryX-entryPoints {
+  border-radius: 8px 8px 0px 0px !important;
 }
 
-.main-contextMenu-menuItemButton  .ellipsis-one-line {
-	position: relative !important;
+.main-yourLibraryX-entryPoints.main-yourLibraryX-library {
+  border-radius: 0px 0px 8px 8px !important;
 }
