@@ -1,18 +1,20 @@
 # Droid's spiced theme
-A nice and sleak spicetify theme, made by a real life android! Isn't that exciting?
+A simple theme made by a real life android! Cool, right?
 </br>
 </br>
 
-![Main Preivew](https://cdn.discordapp.com/attachments/846889355914117140/1110861629740027924/image.png)
+![Main Preivew](https://cdn.discordapp.com/attachments/846889355914117140/1147628793377341460/preview.webp)
 </br>
 </br>
 
-Available on the Marketplace, can be installed locally too.
-Would recommend installing locally, marketplace messes up css added to extensions. 
+Available on the Marketplace, can be installed locally too. </br>
+Would recommend installing locally, marketplace is a little weird.
+</br>
+Doesnt come with the beautiful lyrics! Get that on the marketplace :3
 </br>
 </br>
 
-![alt text](https://cdn.discordapp.com/attachments/846889355914117140/1082255597958864906/image.png)
+![Second Preview](https://cdn.discordapp.com/attachments/846889355914117140/1147630015509450882/secondpreview.png)
 
 🏳️‍⚧️🏳️‍⚧️TRANS RIGHTS🏳️‍⚧️🏳️‍⚧️
  🏳️‍🌈 GAY PRIDE!!! 🏳️‍🌈
